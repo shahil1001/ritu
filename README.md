@@ -1,12 +1,15 @@
-# ritu
+# Ritu
 
-A new Flutter project.
+A fully functional Weather App
 
-## Getting Started
+## Features
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+1)Fetches the realTime Location Wather
+2)error handling
+3)changes the app the accourding to the weather  
+
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
